@@ -1,0 +1,7 @@
+#linked directories (/var/nginx/conf.d, /var/www)
+conf.d
+www
+logs
+venv
+# linked composer-file -> /var/www/
+docker-compose.yml
