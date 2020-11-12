@@ -5,3 +5,4 @@ logs
 venv
 # linked composer-file -> /var/www/
 docker-compose.yml
+_pycache__
